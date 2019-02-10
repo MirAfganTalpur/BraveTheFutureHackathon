@@ -96,6 +96,7 @@
                     android:justificationMode="inter_word"
                     android:lineSpacingMultiplier="1.5"
                     android:textSize="18sp"
+                    android:textStyle="bold"
                     android:paddingLeft="10dp"
                     android:paddingRight="10dp"
                     android:textAlignment="viewStart"

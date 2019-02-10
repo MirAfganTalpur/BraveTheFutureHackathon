@@ -105,9 +105,10 @@ public class Events extends AppCompatActivity {
             num.toString();
             mImageView.setImageResource(getResources().getIdentifier("@drawable/event_image" + num,"drawable",getContext().getPackageName()));
             Button live = rootView.findViewById(R.id.live_button);
+            live.setVisibility(View.INVISIBLE);/*
             if (num!=0) {
-                live.setVisibility(View.INVISIBLE);
-            }
+
+            }*/
             if (num % 2 == 0) {
                 rootView.setBackgroundColor(0xFFC71566);
 
