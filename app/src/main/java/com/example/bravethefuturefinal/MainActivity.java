@@ -48,6 +48,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void toHome (View view){
+        mViewPager.setCurrentItem(1);
+    }
+
     public void toAbout(View view){
         Intent intent = new Intent(this, AboutActivity.class);
         startActivity(intent);

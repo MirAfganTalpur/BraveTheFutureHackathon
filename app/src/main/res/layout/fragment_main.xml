@@ -377,7 +377,7 @@
                     android:layout_marginLeft="8dp"
                     android:fontFamily="@font/frank_medium"
                     android:padding="0dp"
-                    android:text="Research Filler*"
+                    android:text="Big Data at UOIT*"
                     android:textColor="#003C71"
                     android:textSize="25dp"
                     app:layout_constraintStart_toEndOf="@+id/imageView7"
@@ -392,7 +392,7 @@
                     android:fontFamily="@font/frank_regular"
                     android:text="Insatiable ambition. When the second-year Mechatronics..."
                     android:textColor="#003C71"
-                    android:textSize="9dp"
+                    android:textSize="13dp"
                     app:layout_constraintStart_toEndOf="@+id/imageView4"
                     app:layout_constraintTop_toBottomOf="@+id/textView16" />
 
@@ -405,7 +405,7 @@
                     android:fontFamily="@font/frank_regular"
                     android:text="I am an associate professor and Canada Research Chair in..."
                     android:textColor="#003C71"
-                    android:textSize="9dp"
+                    android:textSize="13dp"
                     app:layout_constraintStart_toEndOf="@+id/imageView5"
                     app:layout_constraintTop_toBottomOf="@+id/textView17" />
 
@@ -418,7 +418,7 @@
                     android:fontFamily="@font/frank_regular"
                     android:text="The ACE research and testing facility offers chambers and..."
                     android:textColor="#003C71"
-                    android:textSize="9dp"
+                    android:textSize="13dp"
                     app:layout_constraintStart_toEndOf="@+id/imageView6"
                     app:layout_constraintTop_toBottomOf="@+id/textView18" />
 
@@ -429,9 +429,9 @@
                     android:layout_marginStart="8dp"
                     android:layout_marginLeft="8dp"
                     android:fontFamily="@font/frank_regular"
-                    android:text="Research conducted by blah blah blah..."
+                    android:text="UOIT has emerged as a key leader in the area of Big Data..."
                     android:textColor="#003C71"
-                    android:textSize="9dp"
+                    android:textSize="13dp"
                     app:layout_constraintStart_toEndOf="@+id/imageView7"
                     app:layout_constraintTop_toBottomOf="@+id/textView19" />
 
