@@ -11,9 +11,9 @@ Our app showcased the Brave the Future campaign, with a heavy focus on Brave the
 3. Install and run the app
 
 # Authors
-Mir Afgan Talpur  
-Martin Ridge Reventar  
-Etienne Caronan
+Mir Afgan Talpur \
+Martin Ridge Reventar \
+Etienne Caronan \
 Gavin Gosling
 
 # Acknowledgements
